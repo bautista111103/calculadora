@@ -24,6 +24,12 @@ h1{
     align-items:center;
     background-color:red;
 }
+form{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+
+}
 input{
     width:9vw;
     height:4rem;
